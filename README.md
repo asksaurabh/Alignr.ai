@@ -62,3 +62,17 @@ yarn preview
 - Framer Motion
 - Recharts
 - Lucide React
+
+## Things that can be improved/added in future
+- AI summarizer for candidate's profile while reaching out.
+- Support for internationalization using i18n.
+- Third party integration for scheduling and communication tools.
+- Custom interview questions for candidate's skills and knowledge.
+- More advanced analytics, insights and tracking.
+
+## Current features
+- Tinder-style card interface for candidate discovery.
+- Multi-criteria search (skills, experience, location, salary expectations) with comprehensive profiles summary.
+- Quick shortlisting with match score and customizable filters.
+- Visual pipeline management from shortlist to hire and communication tools.
+- Interactive charts for skills distribution, experience levels, salary ranges.
