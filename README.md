@@ -2,6 +2,9 @@
 
 At its core, Alignr.ai is built on the belief that finding the right job or the right talent should feel human, not transactional. Today’s recruiting platforms are designed around pipelines and buzzwords. I believe they should be designed around people. It’s built to empower job seekers and recruiters to cut through noise, reduce friction, and focus on what truly matters: alignment in skills, values, culture, and purpose.
 
+## Deployed Link
+Link: https://alignr-ai-xi.vercel.app/
+
 ## Installation & Setup
 
 ### 1. Clone the Repository
